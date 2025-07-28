@@ -18,7 +18,6 @@ This repo is my way of learning out loud. Everything here is tested (or at least
 - Azure Virtual Desktop (AVD)
 - Entra ID (Azure AD)
 - PowerShell
-- Nerdio
 - Cloud automation
 - Copilot
 
