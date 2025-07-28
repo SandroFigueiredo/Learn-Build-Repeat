@@ -20,6 +20,7 @@ This repo is my way of learning out loud. Everything here is tested (or at least
 - PowerShell
 - Nerdio
 - Cloud automation
+- Copilot
 
 ## 📜 License
 
